@@ -1,0 +1,11 @@
+ItemName_FR = {
+    MoreBags.SlingBag = "Sac en bandoulière",
+    MoreBags.Rucksack = "Sac de montagne",
+    MoreBags.FirefighterBag = "Sac à dos de Pompier",
+    MoreBags.PoliceBag = "Sac à dos de Police",
+    MoreBags.TacticalBag = "Sac à dos Tactique",
+    MoreBags.MedicalFannyPackFront = "Sac banane médical (Devant)",
+    MoreBags.MedicalFannyPackBack = "Sac banane médical (Dos)",
+    MoreBags.RangerBag = "Sac à dos de Ranger",
+
+}
